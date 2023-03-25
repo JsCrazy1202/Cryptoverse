@@ -1,7 +1,7 @@
 # Cryptoverse
 
 ## Description 
-#### A Web app which shows Trending Cryptos and Top 100 Coins Chart.
+#### A Web app which shows Trending Cryptos and Top 100 Coins Chart. It have features like User authentication, wishlist, particular coin chart pattern.
 
 ## Live Project
 https://cryptoverse-steel.vercel.app/

@@ -14,10 +14,10 @@ https://cryptoverse-steel.vercel.app/
 - [Firebase](https://firebase.google.com/)
 
 ## Features
-#### User Authentication by Email/Google Accounts.
-#### Past Performance Display of any Crypto Coin.
-#### Watchlist Feature to add/del any coin for future reference.
-#### Powerful and Elegant UI interface of the Web App.
+- User Authentication by Email/Google Accounts.
+- Past Performance Display of any Crypto Coin.
+- Watchlist Feature to add/del any coin for future reference.
+- Powerful and Elegant UI interface of the Web App.
 
 ## Screenshots
 #### Homepage

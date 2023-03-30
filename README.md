@@ -19,6 +19,11 @@ https://cryptoverse-steel.vercel.app/
 - Watchlist Feature to add/del any coin for future reference.
 - Powerful and Elegant UI interface of the Web App.
 
+## Learnings From the Project
+- Got Practical knowlege while Working with APIs
+- More Knowledge about React.js and material UI
+- Increase in skill of styling a page and making it responsive.
+- Time Management and Resource Management.
 ## Screenshots
 #### Homepage
 ![image](https://user-images.githubusercontent.com/78155393/227704336-9f8d89a5-4e18-4e66-9772-311fdcedd880.png)
